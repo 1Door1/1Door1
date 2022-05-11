@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @1Door1
 - 👀 I’m interested in CG
 - 🌱 I’m currently learning CG
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  2753652621@qq.com
 
 <!---
